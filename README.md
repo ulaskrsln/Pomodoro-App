@@ -1,5 +1,5 @@
-PomodoroApp
-PomodoroApp, Pomodoro tekniğine dayalı bir zaman yönetimi uygulamasıdır. Çalışma süreleri ve mola sürelerini düzenleyerek, kullanıcıların odaklanmalarına yardımcı olur.
+
+PomodoroApp; Pomodoro tekniğine dayalı bir zaman yönetimi uygulamasıdır. Çalışma süreleri ve mola sürelerini düzenleyerek, kullanıcıların odaklanmalarına yardımcı olur.
 Uygulama, kullanıcıya sesli bildirimler ile her çalışma ve mola süresi sonunda geri bildirimde bulunur.
 
 Özellikler
