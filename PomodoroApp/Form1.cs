@@ -19,9 +19,9 @@ namespace PomodoroApp
     public partial class Form1: Form
     {
         // Çalışma ve mola sürelerini tanımla (saniye cinsinden)
-        private int workTime = 1 * 10;   // 25 dakika çalışma
-        private int shortBreak = 5 * 1;  // 5 dakika kısa mola
-        private int longBreak = 15 * 1;  // 15 dakika uzun mola
+        private int workTime = 25 * 60;   // 25 dakika çalışma
+        private int shortBreak = 5 * 60;  // 5 dakika kısa mola
+        private int longBreak = 15 * 60;  // 15 dakika uzun mola
         private int currentTime;          // Şu anki geri sayım süresi
         private int pomodoroCount = 0;    // Kaç pomodoro tamamlandığını takip et
         private bool isWorking = true;    // Çalışma veya mola durumunu belirle
@@ -223,6 +223,11 @@ namespace PomodoroApp
             {
                 Application.Exit(); 
             }
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

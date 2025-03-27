@@ -11,3 +11,16 @@ D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.p
 D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\Resources\work_end.wav
 D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\Resources\short_break_end.wav
 D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\Resources\long_break_end.wav
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\bin\Debug\Resources\work_end.wav
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\bin\Debug\Resources\short_break_end.wav
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\bin\Debug\Resources\long_break_end.wav
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\bin\Debug\PomodoroApp.exe.config
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\bin\Debug\PomodoroApp.exe
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\bin\Debug\PomodoroApp.pdb
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\obj\Debug\PomodoroApp.csproj.AssemblyReference.cache
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\obj\Debug\PomodoroApp.Form1.resources
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\obj\Debug\PomodoroApp.Properties.Resources.resources
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\obj\Debug\PomodoroApp.csproj.GenerateResource.cache
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\obj\Debug\PomodoroApp.csproj.CoreCompileInputs.cache
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\obj\Debug\PomodoroApp.exe
+C:\Users\mulas\OneDrive\Belgeler\GitHub\PomodoroApp\Pomodoro-App\PomodoroApp\obj\Debug\PomodoroApp.pdb
