@@ -1,0 +1,13 @@
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\PomodoroApp.exe.config
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\PomodoroApp.exe
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\PomodoroApp.pdb
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.csproj.AssemblyReference.cache
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.Form1.resources
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.Properties.Resources.resources
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.csproj.GenerateResource.cache
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.csproj.CoreCompileInputs.cache
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.exe
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\obj\Debug\PomodoroApp.pdb
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\Resources\work_end.wav
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\Resources\short_break_end.wav
+D:\FirstProjectTest\Yeni klasör\PomodoroApp\PomodoroApp\bin\Debug\Resources\long_break_end.wav
